@@ -1,0 +1,29 @@
+{
+  "name": "stay-active-c9",
+  "version": "1.0.0",
+  "description": "Prevents the Cloud9 Workspace from hibernating",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scheng123/stay-active-c9.git"
+  },
+  "keywords": [
+    "cloud9",
+    "c9",
+    "hibernating",
+    "sleep"
+  ],
+  "author": "Simon Cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scheng123/stay-active-c9/issues"
+  },
+  "homepage": "https://github.com/scheng123/stay-active-c9"
+}
