@@ -23,6 +23,7 @@ process.exit(1);
 }
 
 (async() => {
+    console.log('Started the "Preventer"');
 
     const browser = await puppeteer.launch();
 
@@ -38,5 +39,6 @@ process.exit(1);
     await page.evaluate(function() {
         document.getElementById('btnSignIn').click();
     });
+    console.log('Now currently "Preventing"');
 
 })();
