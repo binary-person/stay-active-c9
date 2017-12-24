@@ -16,7 +16,7 @@ node index.js
 
 ```
 ## Important Notes:
-You have to have at least node 7.6 and above
-You may see another "you" in your workspace (Its the "Preventer")
-If you see the error "Page has crashed" or the application exits randomly, probably you set the height and width too big. Use default size in the config or set a smaller size
+You have to have at least node 7.6 and above<br><br>
+You may see another "you" in your workspace (Its the "Preventer")<br><br>
+If you see the error "Page has crashed" or the application exits randomly, probably you set the height and width too big. Use default size in the config or set a smaller size<br><br>
 ### Enjoy!
