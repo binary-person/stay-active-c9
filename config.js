@@ -1,8 +1,8 @@
 var config = {
     // Sets the width and height of the browser
     // Be sure not to include "" else javascript will think this is a string
-    "width": 1,
-    "height": 1,
+    "width": 768,
+    "height": 1080,
     
     // Default height width //true or false
     "defaultSize": false,
